@@ -5,7 +5,7 @@ import torch.nn as nn
 
 class MLP(nn.Module):
     """
-    This is the MLP implementation.
+    This is the MLP implementation
     """
 
     def __init__(
