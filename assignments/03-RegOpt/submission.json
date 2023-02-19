@@ -1,12 +1,11 @@
 {
     "assignment_name": "RegOpt",
     "contributors": [
-        {
-            "name": "Chakradhar Paladi",
-            "pennkey": "MyPennKey"
-        }
+        {"name": "Chakradhar Paladi", "pennkey": "paladi"},
+        {"name": "Jayadev Chevireddi", "pennkey": "jayadev"}
+
     ],
     "sources": [
-        "Don't forget to list your sources/attribution here!"
+        "ChatGPT, temp_submission"
     ]
 }
